@@ -40,5 +40,5 @@ End-to-end RL project: training an agent to autonomously parallel park a vehicle
 
 These projects were completed as part of a Reinforcement Learning course at BHT Berlin (Beuth Hochschule für Technik) during an Erasmus exchange semester.
 
-**Author:** Cem İrer  
+**Authors:** Cem İrer , İdil Balandı 
 **Contact:** irercem@gmail.com
